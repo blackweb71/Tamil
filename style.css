@@ -29,6 +29,13 @@ body
     background: #fff;
     margin: 20px;
 }
+.container #Pushpa span
+{
+    background-image: url(https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pushpa--the-rise-et00129538-08-12-2021-01-21-46.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #Doctor span
 {
     background-image: url(https://image.tmdb.org/t/p/w185/ySPT0USsuDFG9pqHjI50GYOeQmj.jpg);
